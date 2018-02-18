@@ -1,4 +1,4 @@
-# raspirobotboard3
+# RasPi Robot Board v3
 Python library and design files for the RasPi Robot Board V3
 
 If you were looking for the library for the version 2 board go to https://github.com/simonmonk/raspirobotboard2
